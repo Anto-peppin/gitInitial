@@ -64,7 +64,7 @@ useGSAP(()=>{
     <div className="div"></div>
   </div>
    <div className="body1">
-    
+   <h1>My name is Anto peppin</h1>
   </div>
    </>
   )
